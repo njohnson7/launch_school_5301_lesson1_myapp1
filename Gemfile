@@ -49,8 +49,9 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   # custom
-  # gem 'awesome_print'
-  # gem 'pry'
+  gem 'awesome_print'
+  gem 'pry'
+  gem 'shog'
 end
 
 group :test do
